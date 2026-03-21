@@ -21,4 +21,4 @@ The result was a console application in C# with features for adding and removing
    Using .NET CLI:
    dotnet run
 
-4.The list of persons is currently hardcoded. To modify it, go to the Student file.
+4. The list of persons is currently hardcoded. To modify it, go to the Student file.
